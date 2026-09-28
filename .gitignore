@@ -8,3 +8,6 @@ figures/
 
 # Ignore data folder
 data/
+
+# Ignore not needed folder
+not needed/
