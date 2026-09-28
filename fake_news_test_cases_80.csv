@@ -1,0 +1,81 @@
+test_case_id,article,expected_label
+TC-001,The central bank announced a new policy aimed at maintaining price stability and supporting economic growth. Officials said the decision followed a review of inflation and financial conditions.,REAL
+TC-002,The transport authority announced changes to public transportation schedules following an increase in passenger demand. Additional services will operate on several busy routes.,REAL
+TC-003,A university announced that researchers have completed a study examining the effects of artificial intelligence on student learning. The findings will undergo peer review before publication.,REAL
+TC-004,The weather department issued a warning about heavy rainfall in several areas and advised residents to remain cautious near rivers and landslide-prone locations.,REAL
+TC-005,The company reported that quarterly revenue increased compared with the same period last year. Management attributed the change to stronger demand for its main products.,REAL
+TC-006,Health officials launched a public awareness campaign encouraging residents to follow recommended hygiene practices and seek medical advice when necessary.,REAL
+TC-007,The education ministry announced that schools will begin a new academic term according to the published calendar. Officials also reminded schools to follow safety guidelines.,REAL
+TC-008,The airport authority said passenger traffic increased during the holiday period. Additional staff were deployed to assist travelers at busy terminals.,REAL
+TC-009,Local authorities opened a new community health center to provide basic medical services to residents in surrounding areas.,REAL
+TC-010,The agriculture department reported that farmers have begun harvesting the seasonal crop in several districts following favorable weather conditions.,REAL
+TC-011,A technology company announced an update to its software that includes improved security features and performance enhancements for users.,REAL
+TC-012,The municipal government approved a plan to repair several damaged roads and improve drainage systems before the next rainy season.,REAL
+TC-013,Researchers published findings from a study on air quality and said further monitoring would be required to understand long-term environmental changes.,REAL
+TC-014,The football club confirmed that its players had returned to training ahead of the upcoming league match. The coaching staff said preparations would continue throughout the week.,REAL
+TC-015,"The finance ministry released its latest economic report and said officials would continue monitoring inflation, employment and economic activity.",REAL
+TC-016,A hospital opened a new diagnostic unit designed to improve access to medical testing for patients from nearby communities.,REAL
+TC-017,The telecommunications company said it had expanded network coverage in several rural areas as part of its ongoing infrastructure program.,REAL
+TC-018,The election commission announced that preparations for the upcoming local election were continuing according to the official timetable.,REAL
+TC-019,A manufacturing company said production had increased after improvements were made to its main facility. Officials said the changes would help meet customer demand.,REAL
+TC-020,The public library introduced a digital lending service that allows registered members to access selected electronic books and educational materials.,REAL
+TC-021,The energy authority announced maintenance work at several facilities and said temporary service interruptions could occur during the scheduled work.,REAL
+TC-022,"A research team reported that its latest experiment produced promising results, but researchers said additional studies were needed before drawing broader conclusions.",REAL
+TC-023,The tourism board launched a campaign promoting several destinations and encouraged visitors to follow local regulations while traveling.,REAL
+TC-024,The police department said officers had increased patrols in several areas following reports of traffic congestion and safety concerns.,REAL
+TC-025,The university announced scholarships for eligible students and said applications would be reviewed according to the published criteria.,REAL
+TC-026,The national museum opened a new exhibition featuring historical objects and documents from different periods of the country's history.,REAL
+TC-027,The railway authority announced that maintenance work would temporarily change the schedule on several routes. Passengers were advised to check updated information.,REAL
+TC-028,The food safety agency inspected several businesses as part of a routine monitoring program and said further action would depend on the inspection results.,REAL
+TC-029,A software development team released a new version of its application after completing testing and addressing several reported issues.,REAL
+TC-030,"The government announced funding for infrastructure projects including roads, bridges and water supply systems in several communities.",REAL
+TC-031,"A medical research group said its preliminary findings showed a possible relationship between the factors examined in the study, but more research was necessary.",REAL
+TC-032,The bank introduced a new digital service allowing customers to complete selected transactions through its mobile application.,REAL
+TC-033,The environmental agency announced a monitoring program to measure pollution levels in urban and industrial areas.,REAL
+TC-034,The sports association released the schedule for the upcoming national tournament and said participating teams would receive further information.,REAL
+TC-035,The hospital administration said emergency services would continue operating normally during planned maintenance work in other parts of the facility.,REAL
+TC-036,The agriculture ministry announced training programs designed to help farmers improve irrigation and crop management practices.,REAL
+TC-037,The city authority opened a pedestrian area in the town center as part of a broader plan to improve public spaces.,REAL
+TC-038,The company said it would invest in new equipment to improve production efficiency and reduce operational delays.,REAL
+TC-039,The education department distributed updated learning materials to schools and asked teachers to review the revised curriculum.,REAL
+TC-040,The weather service said temperatures were expected to change during the coming days and advised residents to follow official forecasts.,REAL
+TC-041,Government officials have secretly approved a plan to make every citizen a millionaire by the end of next month. The government will allegedly deposit millions of dollars into every bank account.,FAKE
+TC-042,Scientists have discovered a fruit that can make humans live for more than 200 years. Researchers reportedly said eating one piece every morning can prevent all diseases.,FAKE
+TC-043,A secret experiment has supposedly proved that ordinary mobile phones can generate unlimited electricity simply by being switched on. The technology will allegedly replace every power plant.,FAKE
+TC-044,Doctors have reportedly discovered that drinking cold water at exactly midnight eliminates the need for sleep. The method is allegedly being prepared for worldwide medical recommendation.,FAKE
+TC-045,"World leaders have secretly agreed to provide every citizen with a free house, car and unlimited internet without taxes. The agreement will supposedly take effect immediately.",FAKE
+TC-046,A mysterious company claims its new tablet can predict the exact date of a person's death with perfect accuracy. The device will allegedly be available worldwide next week.,FAKE
+TC-047,Scientists reportedly created a machine that can turn ordinary paper into gold within seconds. The inventors say anyone can use it without special equipment.,FAKE
+TC-048,Officials have allegedly announced that people who watch television for eight hours a day will become immune to every known disease.,FAKE
+TC-049,A newly discovered plant supposedly produces unlimited fuel when placed under moonlight. Researchers claim the discovery will end the global energy crisis.,FAKE
+TC-050,A secret government program reportedly plans to give every family a million dollars if they agree to stop using the internet for one month.,FAKE
+TC-051,Researchers allegedly proved that eating chocolate before every meal causes permanent weight loss regardless of how much food a person consumes.,FAKE
+TC-052,A technology company claims it has developed a phone battery that never needs charging and will remain fully powered for fifty years.,FAKE
+TC-053,Scientists supposedly discovered a way to communicate with people living on another planet using an ordinary household radio.,FAKE
+TC-054,An anonymous source claims that all traffic lights will be removed next month because new cars can supposedly communicate directly with each other.,FAKE
+TC-055,Doctors allegedly announced that a single vitamin can permanently cure every form of cancer without any additional treatment.,FAKE
+TC-056,A company reportedly invented shoes that allow people to walk through walls. The manufacturer says the product will be sold in every major store.,FAKE
+TC-057,Researchers supposedly found that drinking seawater every morning dramatically improves memory and makes people resistant to illness.,FAKE
+TC-058,A secret satellite is allegedly capable of controlling the weather anywhere in the world and will soon be used to eliminate storms completely.,FAKE
+TC-059,Government officials reportedly decided that all university tuition fees will be permanently eliminated worldwide starting next week.,FAKE
+TC-060,A new device supposedly allows users to travel back exactly twenty-four hours in time by pressing a single button.,FAKE
+TC-061,Scientists claim that sleeping for only five minutes each night is healthier than normal sleep because the brain can supposedly recharge instantly.,FAKE
+TC-062,An unnamed laboratory reportedly created an invisible material that makes objects disappear permanently when touched.,FAKE
+TC-063,A viral report claims that placing a smartphone under a pillow overnight can increase a person's intelligence by fifty percent.,FAKE
+TC-064,Researchers allegedly found that ordinary tap water contains a substance capable of making people naturally immune to every virus.,FAKE
+TC-065,A company claims its new glasses can show the future and predict every event that will happen during the following year.,FAKE
+TC-066,Officials reportedly announced that citizens will receive free fuel for life if they register their fingerprints through an unofficial website.,FAKE
+TC-067,Scientists supposedly discovered that humans can survive without food for several years by drinking a specially prepared liquid once a month.,FAKE
+TC-068,A secret medical study allegedly proved that people can permanently improve their eyesight by staring directly at the sun for ten minutes each day.,FAKE
+TC-069,A technology startup claims its artificial intelligence system can perfectly predict every stock market movement months in advance.,FAKE
+TC-070,A mysterious report says that a newly invented cream can make a person look twenty years younger after a single application.,FAKE
+TC-071,Scientists allegedly discovered that listening to the same song repeatedly can increase mathematical intelligence within one week.,FAKE
+TC-072,A government source supposedly confirmed that all taxes will be cancelled worldwide after a new economic system is introduced next month.,FAKE
+TC-073,Researchers claim that a special type of rain can turn polluted rivers into drinking water instantly without any treatment.,FAKE
+TC-074,"A company reportedly developed a car that can travel around the world without fuel, charging or any external energy source.",FAKE
+TC-075,An online report claims that wearing a certain color every day can prevent all infectious diseases.,FAKE
+TC-076,Scientists supposedly discovered a hidden island where humans have lived for hundreds of years without aging.,FAKE
+TC-077,Doctors allegedly announced that people who laugh continuously for one hour every morning will never develop heart disease.,FAKE
+TC-078,A secret experiment reportedly showed that plants can grow to full maturity within a few hours when exposed to ordinary smartphone signals.,FAKE
+TC-079,A newly invented device supposedly allows anyone to become fluent in any language after wearing it for ten minutes.,FAKE
+TC-080,Officials reportedly confirmed that a single internet post can legally make its author a millionaire through a newly created global payment system.,FAKE
