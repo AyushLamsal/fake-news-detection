@@ -1,0 +1,10 @@
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore figures folder
+figures/
+
+# Ignore data folder
+data/
